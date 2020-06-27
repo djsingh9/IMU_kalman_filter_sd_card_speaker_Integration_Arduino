@@ -11,8 +11,8 @@
 *
 *       1. IMU sensor Integrated with Arduino
 *       2. IMU Sensor data enhancement using kalman Filter
-*       3. SD Card Integration with Arduino
-*       4. Speaker Inerface with Arduino for playing Audio Files Stored in SD Card
+*       3. SD Card Integrated with Arduino
+*       4. Speaker Inerfaced with Arduino for playing Audio Files Stored in SD Card
 *
 *       The author's acknowldege the contribution of the library developers included in this software for this software development.
 *
